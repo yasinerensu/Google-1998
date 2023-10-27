@@ -1,0 +1,24 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  blockquote {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+element.style {
+    all: initial !important;
+    z-index: 2147483647 !important;
+    width: auto !important;
+    position: fixed !important;
+    bottom: 16px !important;
+    left: 16px !important;
+}
+  
